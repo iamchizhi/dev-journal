@@ -48,19 +48,19 @@ Google and Microsoft
 
 ## My Start Date
 
-`Started: 2026-06-17`
+`Started: 2026-06-19`
 
 ---
 
 ## My Deadline
 
-`Target Date: 2026-06-17`
+`Target Date: 2026-06-30`
 
 ---
 
 ## My Daily Time Commitment
 
-`Hours per day: 6`
+`Hours per day: 7`
 
 ---
 
@@ -82,4 +82,4 @@ I'm a fast learner
 
 ---
 
-*Last updated: 17/06/2026*
+*Last updated: 6/17/2026*
