@@ -24,19 +24,19 @@ Nigeria
 
 ## Current Occupation
 
-Unemployed 
+Unemployed
 
 ---
 
 ## Why I Want to Learn Tech
 
-That's what I dream about from a young age 
+That's what I dream about from a young age
 
 ---
 
 ## My Dream Job Title
 
-Full Stack Web Developer 
+Full Stack Web Developer
 
 ---
 
@@ -48,19 +48,19 @@ Google and Microsoft
 
 ## My Start Date
 
-`Started: 2026-06-16`
+`Started: `
 
 ---
 
 ## My Deadline
 
-`Target Date: 2026-08-31`
+`Target Date: `
 
 ---
 
 ## My Daily Time Commitment
 
-`Hours per day: 3`
+`Hours per day: `
 
 ---
 
@@ -72,14 +72,14 @@ Google and Microsoft
 
 ## My Biggest Fear Right Now
 
-Not winning 
+Not winning
 
 ---
 
 ## What Makes Me Unique As A Future Developer
 
-I'm a fast learner 
+I'm a fast learner
 
 ---
 
-*Last updated: 16/06/2026*
+*Last updated: 17/06/2026*
